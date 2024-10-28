@@ -73,7 +73,7 @@ export const DATA = {
   work: [
     {
       "company": "Lytic Lab",
-      "href": null, /*  No URL provided in the CV */
+      "href": "", /*  No URL provided in the CV */
       "badges": [],
       "location": "Cairo, Egypt",
       "title": "Part-time Software Engineer Intern",

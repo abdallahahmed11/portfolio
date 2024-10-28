@@ -73,18 +73,18 @@ export const DATA = {
   work: [
     {
       "company": "Lytic Lab",
-      "href": "", /*  No URL provided in the CV */
+      "href": "",
       "badges": [],
       "location": "Cairo, Egypt",
       "title": "Part-time Software Engineer Intern",
-      "logoUrl": null, /* No logo URL provided */
+      "logoUrl": "", /* No logo URL provided */
       "start": "Dec 2023",
       "end": "August 2024",
       "description": "Served as a full-stack engineer in the development of a personal brand SaaS template. Contributed to TAM integrated solutions website development using Next.js."
     },
     {
       "company": "Vellore Institute of Technology",
-      "href": null, /* No URL provided in the CV */
+      "href": "", /* No URL provided in the CV */
       "badges": [],
       "location": "India",
       "title": "ML Research Intern",
@@ -109,7 +109,7 @@ export const DATA = {
   projects: [
     {
       title: "A Comprehensive and Self-configuring Deep Learning-based System for Abdomen Medical Image Analysis",
-      href: "",
+      href: "/",
       dates: "June 2023 - present",
       active: false,
       description:
@@ -122,13 +122,12 @@ export const DATA = {
       links: [
       ],
       image: "/Grad.jpg",
-      video:
-          "",
+      video:"",
     },
     {
       title: "TAM integrated solutions",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "July 2024 - Sept 2024",
       active: true,
       description:
           "Developed a personal brand SaaS template for TAM integrated solutions. Contributed to the development of the TAM integrated solutions website using Next.js.",
@@ -136,7 +135,7 @@ export const DATA = {
         "Next.js",
         "Typescript",
         "TailwindCSS",
-        "Prisma",
+        "Prisma"
       ],
       links: [
         {
@@ -152,6 +151,7 @@ export const DATA = {
     {
       title: "Comprehensive Computer Vision Toolbox",
       href: "https://github.com/abdallahahmed11/Computer_Vision-Toolbox",
+      dates: "May 2023 ",
       active: false,
       description:
           "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
@@ -160,7 +160,6 @@ export const DATA = {
         "pyqt5",
         "python",
         "opencv",
-        ,
 
       ],
       links: [
@@ -178,7 +177,7 @@ export const DATA = {
     {
       title: "Image Frequency Explorer",
       href:"https://github.com/abdallahahmed11/Image-Frequency-Explorer", /* REPLACE WITH PROJECT URL */
-      dates: null,
+      dates: "Feb 2023",
       active: false,
       description: "OOP-crafted desktop suite for streamlined Fourier Transform visualization.",
       technologies: [
@@ -196,8 +195,8 @@ export const DATA = {
     },
     {
       title: "VoiceLock Access Manager",
-      href: null, /* REPLACE WITH PROJECT URL */
-      dates: null,
+      href: "https://github.com/abdallahahmed11/Voice-Lock-Access-Manager", /* REPLACE WITH PROJECT URL */
+      dates: "Jan 2023",
       active: false,
       description: "Secure Voice and Phrase Recognition Entry System, powered by machine learning for precision authentication.",
       technologies: [
@@ -206,7 +205,7 @@ export const DATA = {
       ],
       links: [{
         type: "Source",
-        href: "https://github.com/abdallahahmed11/Image-Frequency-Explorer",
+        href: "https://github.com/abdallahahmed11/Voice-Lock-Access-Manager",
         icon: <Icons.github className="size-3" />,
       }],
       image: "/AccessManager.jpg",
@@ -214,7 +213,7 @@ export const DATA = {
     {
       title: "SignalScope Pro",
       href: "https://github.com/abdallahahmed11/SignalScope-Pro", /* REPLACE WITH PROJECT URL */
-      dates: null,
+      dates: "Nov 2022",
       active: false,
       description: "Advanced application for real-time, multi-channel signal analysis using Python and PyQt5.",
       technologies: [

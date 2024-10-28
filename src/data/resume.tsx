@@ -5,7 +5,7 @@ export const DATA = {
   "name": "Abdallah Soliman",
   "initials": "AS",
   "url": "https://abdallahsoliman.com", /* Replace with your actual website URL if you have one */
-  "location": "Sheikh Zayed City, Egypt",
+  "location": "Sheikh Zayed City,  Egypt",
   "locationLink": "https://www.google.com/maps/place/Sheikh+Zayed+City,+Egypt",
   "description": "Medical Software Engineer",
   "summary": "Highly motivated and experienced Medical Software Engineer with a robust academic foundation and extensive hands-on expertise in AI technologies, particularly in deep learning, machine learning, and computer vision. Skilled in applying these technologies and digital signal processing (DSP) to solve complex healthcare challenges. Proficient in web development, including advanced website creation using Next.js, and dedicated to driving innovation in healthcare technology and delivering impactful solutions.",

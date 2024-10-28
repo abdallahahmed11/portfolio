@@ -146,7 +146,7 @@ export const DATA = {
 
       ],
       image: "/tam.png",
-      video: "",
+      video: "/",
     },
     {
       title: "Comprehensive Computer Vision Toolbox",
@@ -192,6 +192,7 @@ export const DATA = {
         icon: <Icons.github className="size-3" />,
       }],
       image:"/FreqExplorer.png",
+      video: "",
     },
     {
       title: "VoiceLock Access Manager",
@@ -209,6 +210,7 @@ export const DATA = {
         icon: <Icons.github className="size-3" />,
       }],
       image: "/AccessManager.jpg",
+      video: "",
     },
     {
       title: "SignalScope Pro",
@@ -227,6 +229,7 @@ export const DATA = {
       }
       ],
       image:"/signalpro.png",
+      video: "",
     },
   ],
   hackathons: []

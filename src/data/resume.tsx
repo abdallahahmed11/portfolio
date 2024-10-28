@@ -126,7 +126,7 @@ export const DATA = {
     },
     {
       title: "TAM integrated solutions",
-      href: "https://magicui.design",
+      href: "https://tam-integrated-solutions.com/en\"",
       dates: "July 2024 - Sept 2024",
       active: true,
       description:

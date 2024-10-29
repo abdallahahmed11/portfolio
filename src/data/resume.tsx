@@ -154,7 +154,7 @@ export const DATA = {
       dates: "May 2023 ",
       active: false,
       description:
-          "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+          "project involves enhancing images through filtering, noise addition, histogram adjustments, and edge detection; analyzing images with the Hough Transform and active contouring; performing feature detection and matching; and applying segmentation and thresholding techniques.",
       technologies: [
         "Computer Vision",
         "pyqt5",

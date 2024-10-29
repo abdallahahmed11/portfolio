@@ -109,7 +109,7 @@ export const DATA = {
   projects: [
     {
       title: "A Comprehensive and Self-configuring Deep Learning-based System for Abdomen Medical Image Analysis",
-      href: "/",
+      href: "",
       dates: "June 2023 - present",
       active: false,
       description:
